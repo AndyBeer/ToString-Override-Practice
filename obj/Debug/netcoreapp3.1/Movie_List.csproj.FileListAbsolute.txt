@@ -1,0 +1,28 @@
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.exe
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.deps.json
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.runtimeconfig.json
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.runtimeconfig.dev.json
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.dll
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.pdb
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.csproj.AssemblyReference.cache
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.AssemblyInfoInputs.cache
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.AssemblyInfo.cs
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.csproj.CoreCompileInputs.cache
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.dll
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.pdb
+C:\Users\HPHAN1\devbuild\LAB6\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.genruntimeconfig.cache
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.exe
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.deps.json
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.runtimeconfig.json
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.runtimeconfig.dev.json
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.dll
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\bin\Debug\netcoreapp3.1\Movie_List.pdb
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.csproj.AssemblyReference.cache
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.AssemblyInfoInputs.cache
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.AssemblyInfo.cs
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.csproj.CoreCompileInputs.cache
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.dll
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.pdb
+C:\Users\abeer\OneDrive - KNEX\Downloads\DevBuild7Lab6-main\DevBuild7Lab6-main\Movie_List\obj\Debug\netcoreapp3.1\Movie_List.genruntimeconfig.cache
